@@ -13,7 +13,7 @@ If you would like your service to be added to this list, please open a PR adding
 
 * [OpenAI](https://github.com/openai/openai-openapi)
 
-## Cloud Databases
+## No-Code
 
 * [Budibase](https://docs.budibase.com/docs/public-api#getting-the-openapi-specification)
 
